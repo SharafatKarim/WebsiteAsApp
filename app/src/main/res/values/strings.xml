@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebsiteAsApp</string>
+    <string name="website_url">https://www.android.com/</string>
+</resources>
