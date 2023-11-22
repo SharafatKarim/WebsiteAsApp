@@ -57,11 +57,11 @@ Feel free to customize the template according to your requirements. You can modi
 
 ## Extending the Project
 
-This project can serve as a base model and can be extended further with additional features or improvements. Consider contributing to the project by [creating an issue](https://github.com/yourusername/WebsiteAsApp/issues) or submitting a pull request.
+This project can serve as a base model and can be extended further with additional features or improvements. Consider contributing to the project by [creating an issue](https://github.com/SharafatKarim/WebsiteAsApp/issues) or submitting a pull request.
 
 ## Contributing
 
-If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/yourusername/WebsiteAsApp/issues) or submit a pull request.
+If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/SharafatKarim/WebsiteAsApp/issues) or submit a pull request.
 
 ## License
 
