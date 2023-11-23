@@ -3,6 +3,8 @@
     <style name="Base.Theme.WebsiteAsApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+         <item name="android:backgroundTint">@color/white</item>
+         <item name="android:foregroundTint">@color/black</item>
     </style>
 
     <style name="Theme.WebsiteAsApp" parent="Base.Theme.WebsiteAsApp" />
