@@ -1,9 +1,9 @@
 # WebsiteAsApp 
-Turn your websites into a native android app within a few minutes, with splash screen support and even more!
+Turn your websites into a native android app within a few minutes, with splash screen support and even more! 
 
 ## Overview
 
-The WebsiteAsApp Android Template allows you to quickly convert a website into a native Android application. Users only need to edit a simple configuration file to specify the website URL. The application features a splash screen with loading ability at startup. Feel free to directly implement or modify even further!
+The WebsiteAsApp Android Template allows you to quickly convert a website into a native Android application. Users only need to edit a simple configuration file to specify the website URL, written in simple java. The application features a splash screen with loading ability at startup. Feel free to directly implement or modify even further!
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ Follow these steps to integrate the template into your Android Studio project:
 
 6. **Change App Icon:**
 
-  Users can change the app icon by replacing the existing icon files located in the app/src/main/res directory. Feel free to simple replace or append!
+   Users can change the app icon by replacing the existing icon files located in the app/src/main/res directory. Feel free to simple replace or append!
   > TIP: There are several online generators to automate this process of generating android app icons.
 
 5. **Customize Splash Screen:**
