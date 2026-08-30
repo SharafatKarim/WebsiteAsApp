@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">WebsiteAsApp</string>
-    <string name="website_url">https://www.android.com/</string>
+    <string name="website_url">http://localhost:8080/</string>
 </resources>
